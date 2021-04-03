@@ -1,6 +1,6 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "Tipos de Câncer"
+subtitle: ""
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
