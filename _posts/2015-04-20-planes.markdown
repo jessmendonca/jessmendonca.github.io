@@ -2,6 +2,7 @@
 title:  "Bem vindo"
 subtitle: "A minha página pessoal e de auto ajuda"
 author: "Jéssica Mendonça"
+avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2021-04-02 12:12:12
 ---
