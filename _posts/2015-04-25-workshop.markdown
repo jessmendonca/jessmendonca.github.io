@@ -1,9 +1,9 @@
 ---
 title:  "Tipos de Câncer"
-subtitle: ""
-author: "Wferr"
+subtitle: "entenda"
+author: "Jess"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/tipos.jpg"
 date:   2015-04-25 12:12:12
 ---
 
