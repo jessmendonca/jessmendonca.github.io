@@ -1,10 +1,6 @@
 ---
 title:  "Livros e Filmes"
-subtitle: "top"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
 image: "img/lf.jpg"
-date:   2015-04-23 12:12:12
 ---
 
 ### Uma Prova de Amor
