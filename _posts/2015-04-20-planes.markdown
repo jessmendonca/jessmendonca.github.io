@@ -1,10 +1,9 @@
 ---
 title:  "Bem vindo"
-subtitle: "A"
+subtitle: 
 author: "Jéssica Mendonça"
-avatar: "img/authors/wferr.png"
 image: "img/mae.jpg"
-date:   2021-04-02 12:12:12
+
 ---
 
 ### Quem sou eu?
