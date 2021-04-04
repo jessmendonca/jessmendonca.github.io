@@ -1,19 +1,18 @@
 ---
 title:  "Depoimentos"
-subtitle: ""
-author: "Wferr"
-avatar: "img/authors/wferr.png"
 image: "img/juntos.jpg"
-date:   2015-04-24 12:12:12
----
 
-### Pacientes
-Quando tive o diagnóstico
+---
 
 ### Médicos
 
-A pior sensação é quando...
+No momento de dar o diagnóstico...
+
+### Pacientes
+
+Foi a pior sensação...
 
 ### Familiares
 
-Entrei em choque
+Entrei em choque...
+
