@@ -2,8 +2,10 @@
 title:  "ONGs"
 image: "img/ONGS2.jpg"
 ---
-##Organização Regional de Combate ao Câncer
+
+
+Organização Regional de Combate ao Câncer
 [ORCCA](http://www.orcca.org.br/)
 
-##Grupo de Apoio a Pessoas com Câncer
+Grupo de Apoio a Pessoas com Câncer
 [GAPC](https://www.gapc.org.br/)
