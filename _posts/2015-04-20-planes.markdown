@@ -1,6 +1,6 @@
 ---
 title:  "Bem vindo"
-subtitle: quero voltar
+subtitle:
 author: "Jéssica Mendonça"
 image: "img/mae.jpg"
 ---
