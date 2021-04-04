@@ -1,6 +1,6 @@
 ---
 title:  "Bem vindo"
-subtitle: "A minha página pessoal e de auto ajuda"
+subtitle: "A"
 author: "Jéssica Mendonça"
 avatar: "img/authors/wferr.png"
 image: "img/mae.jpg"
@@ -9,4 +9,4 @@ date:   2021-04-02 12:12:12
 
 ### Quem sou eu?
 
-Meu nome é Jéssica e perdi recentemente minha mãe por câncer.
+Esta é  minha página pessoal e de auto ajuda, meu nome é Jéssica e perdi recentemente minha mãe por câncer.

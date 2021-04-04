@@ -1,5 +1,5 @@
 ---
-title:  "Livros e Filmes"
+title:  "Alimentos"
 image: "img/alim.jpg"
 ---
 ### Alimentos poderosos para a prevenção e combate ao Câncer.
