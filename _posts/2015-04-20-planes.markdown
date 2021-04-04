@@ -7,4 +7,4 @@ image: "img/mae.jpg"
 
 ### Quem sou eu?
 
-Esta é  minha página pessoal e de auto ajuda, meu nome é Jéssica e perdi recentemente minha mãe por câncer.
+Esta é  minha página pessoal e de auto ajuda, meu nome é Jéssica e perdi recentemente minha mãe por câncer. Veio ao óbito no dia 25/10/2020.
