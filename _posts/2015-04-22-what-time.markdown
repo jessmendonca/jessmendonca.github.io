@@ -5,7 +5,8 @@ image: "img/LF2.jpg"
 ---
 
 ### Uma Prova de Amor
-image: "img/p amor.jpg"
-
+image: "img/amor1.jpg"
+![Alt](img/amor1.jpg)
 ### Cartas para Deus
-image: "img/CPD.jpg"
+image: "img/amor.jpg"
+![Alt](img/amor.jpg)
