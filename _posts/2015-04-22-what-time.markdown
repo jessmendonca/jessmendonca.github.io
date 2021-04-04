@@ -2,7 +2,7 @@
 title:  "Livros e Filmes"
 image: "img/LF2.jpg"
 ---
-### Uma Prova de Amor
+# Uma Prova de Amor
 Anna Fitzgerald foi concebida para ajudar a salvar sua irmã doente. Em seu pouco tempo de vida, ela já passou por várias cirurgias na tentativa de curá-la. Mas agora Anna leva seus pais ao tribunal, pois quer ser emancipada.
 
 ![Alt](img/amor1.jpg)
@@ -22,7 +22,7 @@ Lançado em 2012, a história é sobre Sophie, que ,após ser diagnosticada com 
 
 ![Alt](img/peruc.jpg)
 
-###50%
+### 50%
 A comédia dramática de 2011 e inspirada em fotos reais relata a vida de Adam que tem apenas 27 anos e descobre que está com câncer. O problema é que ele não fumava, não bebia e foi difícil entender o motivo de um tumor. Mas para ajudar a enfrentar essa pedreira, ele vai contar com a ajuda de seu melhor amigo Kyle, um cara muito alto astral e também de uma analista que não é de se jogar fora. Dessa forma parece até que suas chances de sobrevivência em torno dos 50% não tão ruins assim. Será que não mesmo?
 
 ![Alt](50.jpg)
