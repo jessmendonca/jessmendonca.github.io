@@ -1,5 +1,5 @@
 ---
-title:  "Bem vindo"
+title:  "Bem vindo!"
 subtitle:
 author: "Jéssica Mendonça"
 image: "img/mae.jpg"
@@ -7,4 +7,4 @@ image: "img/mae.jpg"
 
 ### Quem sou eu?
 
-Esta é  minha página pessoal e de auto ajuda, meu nome é Jéssica e perdi recentemente minha mãe por câncer. Veio ao óbito no dia 25/10/2020.
+Esta é uma página de auto ajuda,nela você encontrará informações sobre a doença câncer e coragem para enfrentá-la. Meu nome é Jéssica de Mendonça e perdi recentemente minha mãe, ela foi diagnosticada com neoplasia malígna em abril de 2014,daquela data em diante foram dias de muita luta e fé. Veio ao óbito no dia 25/10/2020.
