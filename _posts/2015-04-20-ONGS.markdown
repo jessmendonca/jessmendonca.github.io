@@ -7,11 +7,11 @@ image: "img/ONGS2.jpg"
 
 <div style = "text-align: justify;">
 
-Organização Regional de Combate ao Câncer </br>
-<a href="http://www.orcca.org.br/">ORCCA</a>
+Organização Regional de Combate ao Câncer <br>
+<a target = "_blank" href="http://www.orcca.org.br/">ORCCA</a>
 
 
-Grupo de Apoio a Pessoas com Câncer</br>
-<a href="http://https://www.gapc.org.br/">GAPC</a>
+Grupo de Apoio a Pessoas com Câncer<br>
+<a target = "_blank" href="https://www.gapc.org.br/">GAPC</a>
 
 </div>
