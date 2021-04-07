@@ -9,9 +9,7 @@ image: "img/ONGS2.jpg"
 Organização Regional de Combate ao Câncer (ORCCA) <br>
 
 <a target = "_blank" href="http://www.orcca.org.br/"><h3 style = "color: #1099e8;">www.orcca.org.br</h3></a>
-<br>
 
 Grupo de Apoio a Pessoas com Câncer (GAPC)<br>
-<a target = "_blank" href="https://www.gapc.org.br/"><h3 style = "color: #1099e8;">www.gapc.org.br</a>
-
+<a target = "_blank" href="https://www.gapc.org.br/"><h3 style = "color: #1099e8;">www.gapc.org.br</h3></a>
 </div>
