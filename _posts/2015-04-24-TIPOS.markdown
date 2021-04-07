@@ -6,6 +6,7 @@ image: "img/tipos.jpg"
 ---
 
 ### De Mama
+
 <div style = "text-align: justify;">
 O diagnóstico precoce é a chave para cura do câncer de mama.
 
@@ -13,7 +14,10 @@ Trata-se do câncer mais comum no sexo feminino (depois do câncer de pele não-
 
 Reduzir o consumo de gorduras e bebidas alcoólicas, não fumar, realizar atividades físicas e manter o peso ideal, são ações que podem reduzir a chance de desenvolver o câncer de mama.
 <div>
+
+<div style = "text-align: justify;">
 ### De pele
+
 <div style = "text-align: justify;">
 Os cânceres de pele são divididos em dois grupos, câncer de pele melanoma e câncer de pele não-melanoma.
 
@@ -23,7 +27,9 @@ O câncer de pele é mais comum em pessoas com mais de 40 anos, sendo, relativam
 
 São compostos por dois tipos histológicos mais frequentes o carcinoma basocelular, responsável por 70% dos diagnósticos, e o carcinoma epidermóide, representando 25% dos casos. O carcinoma basocelular, apesar de mais incidente, é também o menos agressivo.
 <div>
+
 ### De intestino grosso(Cólon) e do reto
+
 <div style = "text-align: justify;">
 O diagnóstico precoce garante uma vida saudável.
 
@@ -37,13 +43,17 @@ Fique atento às mudanças de hábito intestinal (fezes finas ou em sílabas, pr
 
 Uma dieta saudável com ingestão de frutas e verduras, com menos gorduras, evitando o consumo excessivo de carnes vermelhas e a realização de atividade física, são ações que podem diminuir o risco do câncer colorretal.
 <div>
+
 ### De cabeça e pescoço
+
 <div style = "text-align: justify;">
 Os cânceres que afetam a região da cabeça e pescoço são nomeados de acordo com o local ou órgão afetado pela doença. Assim nesta região temos uma grande gama de diferentes tumores, por exemplo: câncer de boca, orofaringe, nasofaringe, laringe, etc. A grande maioria dos casos de câncer de cabeça e pescoço são causados pelo hábito de fumar, mas podem ser causados por outros fatores, tais como o sol e o HPV (Papiloma Vírus Humano), este último transmitido sexualmente.
 
 A estimativa de novos casos depende do local afetado pela doença.
 <div>
+
 ### De pulmão
+
 <div style = "text-align: justify;">
 É um tipo de câncer intimamente relacionado ao hábito de fumar. Em torno de 95% dos pacientes, com diagnóstico de câncer de pulmão, são fumantes, ex-fumantes ou fumantes passivos.
 
@@ -51,7 +61,9 @@ Apesar de não ser o tipo mais comum, é o mais fatal de todos,  visto que é po
 
 O hábito de fumar deve ser constantemente combatido através de processo educacional evitando que novos usuários se tornem dependentes à nicotina, evitando ambiente com fumaças de cigarros e derivados do tabaco, suportando e apoiando usuários para deixarem desse hábito.
 <div>
+
 ### De próstata
+
 <div style = "text-align: justify;">
 É o tipo de câncer mais freqüente nos homens depois do câncer de pele não-melanoma. Este câncer ocorre mais frequentemente em pacientes negros e está intimamente relacionado à idade (mais de 55 anos) e a história familiar. Atualmente o rastreamento ampliado do câncer de próstata não mais é indicado. Assim sendo, recomendamos que todos os homens com mais de 40 anos procure um médico urologista para ser orientado sobre os seus riscos e exames necessários.
 
