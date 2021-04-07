@@ -9,7 +9,7 @@ image: "img/ONGS2.jpg"
 
 Organização Regional de Combate ao Câncer <br>
 
-<a target = "_blank" href="http://www.orcca.org.br/"><h3>ORCCA</h3></a>
+<a target = "_blank" href="http://www.orcca.org.br/"><h3 style = "color: blue;">ORCCA</h3></a>
 <br>
 
 Grupo de Apoio a Pessoas com Câncer<br>
