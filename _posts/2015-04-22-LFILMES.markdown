@@ -3,8 +3,9 @@ title:  "Livros e Filmes"
 image: "img/LF2.jpg"
 ---
 ### Uma Prova de Amor
+<div style = "text-align: justify;">
 Anna Fitzgerald foi concebida para ajudar a salvar sua irmã doente. Em seu pouco tempo de vida, ela já passou por várias cirurgias na tentativa de curá-la. Mas agora Anna leva seus pais ao tribunal, pois quer ser emancipada.
-
+</div>
 ![Alt](img/amor1.jpg)
 
 ### Cartas para Deus
