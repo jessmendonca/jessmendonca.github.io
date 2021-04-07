@@ -28,7 +28,7 @@ O câncer de pele é mais comum em pessoas com mais de 40 anos, sendo, relativam
 São compostos por dois tipos histológicos mais frequentes o carcinoma basocelular, responsável por 70% dos diagnósticos, e o carcinoma epidermóide, representando 25% dos casos. O carcinoma basocelular, apesar de mais incidente, é também o menos agressivo.
 <div>
 
-### De intestino grosso(Cólon) e do reto
+### De intestino grosso(Cólon) e do reto<h3>
 
 <div style = "text-align: justify;">
 O diagnóstico precoce garante uma vida saudável.
