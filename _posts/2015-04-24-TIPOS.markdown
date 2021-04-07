@@ -12,9 +12,9 @@ O diagnóstico precoce é a chave para cura do câncer de mama.
 Trata-se do câncer mais comum no sexo feminino (depois do câncer de pele não-melanoma) e acomete mulheres de diferentes faixas etárias. A incidência deste câncer aumenta progressivamente com a idade e está relacionado a fatores hormonais. Assim, mulheres que apresentam menarca precoce (primeira menstruação), menopausa tardia (última menstruação), nulíparas (mulheres que nunca tiveram filhos) e àquelas que não amamentaram seus filhos têm mais chances de desenvolver câncer de mama. Uma em cada vinte mulheres no Brasil desenvolverá câncer de mama e deverá ser submetida a tratamento especializado. Este câncer tem cura quando diagnosticado precocemente. Conhecer o seu corpo, realizar visitas médicas periódicas e mamografias, sempre que indicado, são ações que podem conduzir ao diagnóstico do câncer de mama em fases iniciais. Lembre-se, o autoexame é importante, porém não substitui o exame médico e nem a mamografia.
 
 Reduzir o consumo de gorduras e bebidas alcoólicas, não fumar, realizar atividades físicas e manter o peso ideal, são ações que podem reduzir a chance de desenvolver o câncer de mama.
-
+<div>
 ### De pele
-
+<div style = "text-align: justify;">
 Os cânceres de pele são divididos em dois grupos, câncer de pele melanoma e câncer de pele não-melanoma.
 
 O câncer de pele não-melanoma é o câncer mais frequente no Brasil, responsável por 25% de todos os tumores malignos registrados no país. Apresenta altos percentuais de cura, se for detectado precocemente e o tratamento cirúrgico é o mais indicado na imensa maioria dos casos.
@@ -22,9 +22,9 @@ O câncer de pele não-melanoma é o câncer mais frequente no Brasil, responsá
 O câncer de pele é mais comum em pessoas com mais de 40 anos, sendo, relativamente raro, em crianças e negros, com exceção daqueles já portadores de doenças cutâneas anteriores. Pessoas de pele clara, sensível à ação dos raios solares, ou com doenças cutâneas prévias são as principais vítimas.
 
 São compostos por dois tipos histológicos mais frequentes o carcinoma basocelular, responsável por 70% dos diagnósticos, e o carcinoma epidermóide, representando 25% dos casos. O carcinoma basocelular, apesar de mais incidente, é também o menos agressivo.
-
+<div>
 ### De intestino grosso(Cólon) e do reto
-
+<div style = "text-align: justify;">
 O diagnóstico precoce garante uma vida saudável.
 
 Os cânceres que acometem o intestino grosso (Cólon) e o Reto, na sua maioria, estão intimamente relacionados com a idade dos pacientes (>55 anos), aos hábitos alimentares e ao histórico familiar para esta doença.
@@ -36,23 +36,23 @@ Familiares de pacientes jovens, portadores de câncer de cólon, devem procurar 
 Fique atento às mudanças de hábito intestinal (fezes finas ou em sílabas, presença de muco e sangue nas fezes) e anemia não explicada por deficiência vitamínica ou férrica.
 
 Uma dieta saudável com ingestão de frutas e verduras, com menos gorduras, evitando o consumo excessivo de carnes vermelhas e a realização de atividade física, são ações que podem diminuir o risco do câncer colorretal.
-
+<div>
 ### De cabeça e pescoço
-
+<div style = "text-align: justify;">
 Os cânceres que afetam a região da cabeça e pescoço são nomeados de acordo com o local ou órgão afetado pela doença. Assim nesta região temos uma grande gama de diferentes tumores, por exemplo: câncer de boca, orofaringe, nasofaringe, laringe, etc. A grande maioria dos casos de câncer de cabeça e pescoço são causados pelo hábito de fumar, mas podem ser causados por outros fatores, tais como o sol e o HPV (Papiloma Vírus Humano), este último transmitido sexualmente.
 
 A estimativa de novos casos depende do local afetado pela doença.
-
+<div>
 ### De pulmão
-
+<div style = "text-align: justify;">
 É um tipo de câncer intimamente relacionado ao hábito de fumar. Em torno de 95% dos pacientes, com diagnóstico de câncer de pulmão, são fumantes, ex-fumantes ou fumantes passivos.
 
 Apesar de não ser o tipo mais comum, é o mais fatal de todos,  visto que é pouco diagnosticado em fases precoces. A alta letalidade provém uma sobrevida média cumulativa total em cinco anos, entre 13 e 21% em países desenvolvidos e entre 7 e 10% nos países em desenvolvimento. No fim do século XX, o câncer de pulmão se tornou uma das principais causas de morte evitáveis.
 
 O hábito de fumar deve ser constantemente combatido através de processo educacional evitando que novos usuários se tornem dependentes à nicotina, evitando ambiente com fumaças de cigarros e derivados do tabaco, suportando e apoiando usuários para deixarem desse hábito.
-
+<div>
 ### De próstata
-
+<div style = "text-align: justify;">
 É o tipo de câncer mais freqüente nos homens depois do câncer de pele não-melanoma. Este câncer ocorre mais frequentemente em pacientes negros e está intimamente relacionado à idade (mais de 55 anos) e a história familiar. Atualmente o rastreamento ampliado do câncer de próstata não mais é indicado. Assim sendo, recomendamos que todos os homens com mais de 40 anos procure um médico urologista para ser orientado sobre os seus riscos e exames necessários.
 
 A realização do teste de PSA (Antígeno Prostático Específico) não garante, isoladamente, diagnóstico e nem altera a história natural dessa doença de forma significativa, já que em alguns casos ocorrem sem elevação do PSA e muitos tumores pequenos são super tratados podendo proporcionar sequelas sem agregar aumento de sobrevida.
