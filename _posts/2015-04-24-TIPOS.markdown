@@ -1,11 +1,12 @@
 ---
 title:  "Tipos de Câncer"
+subtitle:
 image: "img/tipos.jpg"
 
 ---
 
 ### De Mama
-
+<div style = "text-align: justify;">
 O diagnóstico precoce é a chave para cura do câncer de mama.
 
 Trata-se do câncer mais comum no sexo feminino (depois do câncer de pele não-melanoma) e acomete mulheres de diferentes faixas etárias. A incidência deste câncer aumenta progressivamente com a idade e está relacionado a fatores hormonais. Assim, mulheres que apresentam menarca precoce (primeira menstruação), menopausa tardia (última menstruação), nulíparas (mulheres que nunca tiveram filhos) e àquelas que não amamentaram seus filhos têm mais chances de desenvolver câncer de mama. Uma em cada vinte mulheres no Brasil desenvolverá câncer de mama e deverá ser submetida a tratamento especializado. Este câncer tem cura quando diagnosticado precocemente. Conhecer o seu corpo, realizar visitas médicas periódicas e mamografias, sempre que indicado, são ações que podem conduzir ao diagnóstico do câncer de mama em fases iniciais. Lembre-se, o autoexame é importante, porém não substitui o exame médico e nem a mamografia.
@@ -57,3 +58,4 @@ O hábito de fumar deve ser constantemente combatido através de processo educac
 A realização do teste de PSA (Antígeno Prostático Específico) não garante, isoladamente, diagnóstico e nem altera a história natural dessa doença de forma significativa, já que em alguns casos ocorrem sem elevação do PSA e muitos tumores pequenos são super tratados podendo proporcionar sequelas sem agregar aumento de sobrevida.
 
 Consumir verduras e vegetais, reduzir a quantidade de gordura animal, não tomar refrigerantes e realizar atividade física, são ações que podem reduzir a chance de desenvolver o câncer de próstata.
+<div>

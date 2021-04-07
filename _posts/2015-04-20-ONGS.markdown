@@ -1,5 +1,6 @@
 ---
 title:  "ONGs"
+subtitle:
 image: "img/ONGS2.jpg"
 ---
 Organização Regional de Combate ao Câncer
