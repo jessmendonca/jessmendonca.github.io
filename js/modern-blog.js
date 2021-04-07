@@ -44,6 +44,7 @@ var demo = (function (window) {
 
     /**
      * Initialise demo.
+     * Se quiser modificar a imagem de fundo do tema
      */
     var init = function () {
 
@@ -52,9 +53,14 @@ var demo = (function (window) {
             width: window.innerWidth,
             height: window.innerHeight,
             cell_size: 90,
-            variance: 1,
-            stroke_width: 1,
-            x_colors: 'random',
+                variance: 1,
+                stroke_width: 0.6,
+                /**
+            color_function : function(x, y) {
+                    return '#5cb0bf';
+                }
+                */
+                x_colors: 'random',
             y_colors: 'random'
         }).svg(); // Render as SVG.
 
