@@ -3,16 +3,15 @@ title:  "ONGs"
 subtitle:
 image: "img/ONGS2.jpg"
 ---
-### ONGS 
 
 <div style = "text-align: justify;">
 
-Organização Regional de Combate ao Câncer <br>
+Organização Regional de Combate ao Câncer (ORCCA) <br>
 
-<a target = "_blank" href="http://www.orcca.org.br/"><h3 style = "color: #1099e8;">ORCCA</h3></a>
+<a target = "_blank" href="http://www.orcca.org.br/"><h3 style = "color: #1099e8;">www.orcca.org.br</h3></a>
 <br>
 
-Grupo de Apoio a Pessoas com Câncer<br>
-<a target = "_blank" href="https://www.gapc.org.br/">GAPC</a>
+Grupo de Apoio a Pessoas com Câncer (GAPC)<br>
+<a target = "_blank" href="https://www.gapc.org.br/"><h3 style = "color: #1099e8;">www.gapc.org.br</a>
 
 </div>

@@ -59,7 +59,7 @@ A estimativa de novos casos depende do local afetado pela doença.
 Apesar de não ser o tipo mais comum, é o mais fatal de todos,  visto que é pouco diagnosticado em fases precoces. A alta letalidade provém uma sobrevida média cumulativa total em cinco anos, entre 13 e 21% em países desenvolvidos e entre 7 e 10% nos países em desenvolvimento. No fim do século XX, o câncer de pulmão se tornou uma das principais causas de morte evitáveis.
 
 O hábito de fumar deve ser constantemente combatido através de processo educacional evitando que novos usuários se tornem dependentes à nicotina, evitando ambiente com fumaças de cigarros e derivados do tabaco, suportando e apoiando usuários para deixarem desse hábito.
-<div>
+</div>
 
 ### De próstata
 
@@ -69,4 +69,4 @@ O hábito de fumar deve ser constantemente combatido através de processo educac
 A realização do teste de PSA (Antígeno Prostático Específico) não garante, isoladamente, diagnóstico e nem altera a história natural dessa doença de forma significativa, já que em alguns casos ocorrem sem elevação do PSA e muitos tumores pequenos são super tratados podendo proporcionar sequelas sem agregar aumento de sobrevida.
 
 Consumir verduras e vegetais, reduzir a quantidade de gordura animal, não tomar refrigerantes e realizar atividade física, são ações que podem reduzir a chance de desenvolver o câncer de próstata.
-<div>
+</div>
